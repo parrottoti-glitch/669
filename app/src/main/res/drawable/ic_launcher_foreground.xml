@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- حلقه‌ی قرمز -->
+    <path
+        android:pathData="M54,28 A26,26 0 1,1 53.99,28 Z"
+        android:strokeColor="#FF1744"
+        android:strokeWidth="5"
+        android:fillColor="#00000000" />
+    <!-- نقطه‌ی مرکزی -->
+    <path
+        android:pathData="M54,44 A10,10 0 1,1 53.99,44 Z"
+        android:fillColor="#FF1744" />
+    <!-- خطوط هدف‌گیری -->
+    <path
+        android:pathData="M54,22 L54,36 M54,72 L54,86 M22,54 L36,54 M72,54 L86,54"
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="4"
+        android:strokeLineCap="round" />
+</vector>
